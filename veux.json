@@ -1,3 +1,12 @@
 {
-  "response": []
+  "response": [
+    {
+      "filename": "Project_Infinity-X-4.2-veux-15.11.2026-GAPPS-UNOFFICIAL.zip",
+      "download": "https://github.com/AdrianRR/veux-ota/releases/download/veux-20261115-160150/Project_Infinity-X-4.2-veux-15.11.2026-GAPPS-UNOFFICIAL.zip",
+      "timestamp": 1794754223,
+      "md5": "23feab0bbf9ee2b3996e08062f2a23ad",
+      "size": 2065776122,
+      "version": "4.2"
+    }
+  ]
 }
